@@ -7,17 +7,17 @@ This repository is a self-contained demo kit for a 60-minute webinar that follow
 
 ## 📋 60-Minute Agenda
 
-| Time | Duration | Segment | Personas in Spotlight |
-|------|----------|---------|----------------------|
-| 0:00 | 5 min | **Welcome & Scene Setting** | All |
-| 0:05 | 12 min | **Act 1: Discovery & Requirements** | 👤 BA, 📊 PM/PO |
-| 0:17 | 2 min | Bridge Moment | All |
-| 0:19 | 12 min | **Act 2: Translation & Technical Bridging** | 🔧 Systems Analyst, 👤 BA |
-| 0:31 | 2 min | Bridge Moment | All |
-| 0:33 | 12 min | **Act 3: Quality & Validation** | 🧪 QA, 🔧 Systems Analyst |
-| 0:45 | 2 min | Bridge Moment | All |
-| 0:47 | 8 min | **Act 4: Communication & Documentation** | 📊 PM/PO, All |
-| 0:55 | 5 min | **Q&A & Wrap-Up** | All |
+| Segment | Personas in Spotlight | Agenda Summary |
+|---------|----------------------|----------------|
+| **Welcome & Scene Setting** | All | Introduce the shared returns-portal scenario, explain how the four personas connect across the webinar, and set expectations for how each act builds on the same source artifacts. |
+| **Act 1: Discovery & Requirements** | 👤 BA, 📊 PM/PO | The BA turns messy meeting notes and draft requirements into structured stories, comparisons, and clear acceptance criteria, while the PM/PO converts backlog and requirement inputs into priorities, roadmap framing, and kickoff-ready feature direction. |
+| Bridge Moment | All | Pause to connect discovery outputs to the next act, showing how clarified requirements become inputs for technical translation and implementation planning. |
+| **Act 2: Translation & Technical Bridging** | 🔧 Systems Analyst, 👤 BA | The Systems Analyst explains code and data structures in business language, surfaces technical risks, and drafts architecture decisions, while the BA continues refining vague requirements into testable, implementation-ready stories. |
+| Bridge Moment | All | Reframe the refined requirements and technical context as the basis for validation, highlighting what QA and cross-functional reviewers now need to inspect. |
+| **Act 3: Quality & Validation** | 🧪 QA, 🔧 Systems Analyst | QA transforms acceptance criteria and code behavior into test cases, plans, and risk-based coverage, while the Systems Analyst helps non-developers understand code changes, business impact, and where validation should focus. |
+| Bridge Moment | All | Connect validation outputs to launch readiness by showing how tested functionality and clarified risks feed stakeholder communication and release materials. |
+| **Act 4: Communication & Documentation** | 📊 PM/PO, All | The PM/PO turns completed work into sprint reporting, release notes, stakeholder updates, and support-ready documentation, while the broader team ties the full story together from idea to release. |
+| **Q&A & Wrap-Up** | All | Recap what each persona contributed, reinforce how the shared artifacts support every act, and close with audience questions and takeaways. |
 
 ---
 

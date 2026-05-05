@@ -1,0 +1,2 @@
+Technical discussion to analyze:
+The team debated whether to store return request events in the main application database vs. a separate audit log service. Dev argued for a separate service for scalability;  Marcus raised concerns about complexity and the 7-year retention requirement being harder to enforce across two systems. Sarah noted Finance just wants a queryable record, not a real-time stream. The team agreed to use an immutable audit log table in the primary database for MVP, revisiting for v2 if write volume requires streaming.

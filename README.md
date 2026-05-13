@@ -20,6 +20,7 @@ This repository is a self-contained demo kit for a 60-minute webinar that follow
 - [`scenario/`](#scenario) — Shared feature artifacts (meeting notes, requirements, code, backlog)
 - [`prompts/`](#prompts) — Curated Copilot prompts organized by persona
 - [`outputs/`](#outputs) — Pre-generated example outputs (fallback for live demos)
+- [`exercises/`](#exercises) — 30–60 min hands-on labs (Copilot Chat)
 
 ---
 
@@ -33,6 +34,14 @@ This repo is a **prompt library + scenario kit**. Here's how the pieces fit toge
 4. **After the webinar:** Share this repo with attendees as a take-home prompt library.
 
 > **Tip:** The `outputs/` files are also great for preview screenshots or slide backgrounds during your intro.
+
+---
+
+## exercises/
+
+Hands-on labs for attendees using **GitHub Copilot Chat** (VS Code). Each lab is **30–60 minutes**.
+
+- Start here: [`exercises/README.md`](exercises/README.md)
 
 ---
 

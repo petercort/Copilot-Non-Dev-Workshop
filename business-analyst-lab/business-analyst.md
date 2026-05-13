@@ -1,7 +1,9 @@
 # Business Analyst Prompts — Returns Portal Webinar
 **Persona:** Business Analyst (BA)  
-**Primary Goals:** Extract requirements from raw input, compare document versions, refine vague requirements into well-formed user stories, and bridge stakeholder communication.  
+**Primary Goals:** Extract requirements from raw input, compare document versions, refine vague requirements into well-formed user stories, and package the results into a strong BA deliverable.  
 **Acts Covered:** Act 1 (Discovery & Requirements), Act 2 (Refinement)
+
+**Standalone demo framing:** These prompts support a self-contained BA demo inside the Returns Portal scenario. They are designed to work directly from BA inputs without depending on outputs from other persona demos.
 
 ---
 

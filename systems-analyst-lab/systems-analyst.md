@@ -1,7 +1,9 @@
 # Systems Analyst Prompts — Returns Portal Webinar
 **Persona:** Systems Analyst (SA)  
-**Primary Goals:** Translate between technical and non-technical communication, explain code to stakeholders, draft Architecture Decision Records (ADRs), and bridge the gap between raw requirements and technical implementation.  
+**Primary Goals:** Translate between technical and non-technical communication, explain code to stakeholders, draft Architecture Decision Records (ADRs), and bridge the gap between approved requirements and technical implementation.  
 **Acts Covered:** Act 2 (Translation & Technical Bridging), Act 3 (Quality support)
+
+**Standalone demo framing:** These prompts support a self-contained Systems Analyst demo inside the Returns Portal scenario. They work directly from the requirements, API, and data model provided in this lab.
 
 ---
 

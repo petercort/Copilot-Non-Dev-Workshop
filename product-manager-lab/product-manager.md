@@ -1,7 +1,9 @@
 # Product Manager / Product Owner Prompts — Returns Portal Webinar
 **Persona:** Product Manager / Product Owner (PM/PO)  
-**Primary Goals:** Roadmap planning, stakeholder communication, sprint reporting, release documentation, and translating backlog data into decision-ready briefs.  
+**Primary Goals:** Roadmap planning, stakeholder communication, sprint reporting, release documentation, and translating requirements/backlog data into decision-ready briefs.  
 **Acts Covered:** Act 1 (Roadmap & Prioritization), Act 4 (Communication & Documentation)
+
+**Standalone demo framing:** These prompts support a self-contained PM/PO demo inside the Returns Portal scenario. They work directly from the backlog and requirements artifacts in this lab.
 
 ---
 
@@ -25,7 +27,7 @@ Here are the issues:
 
 ## Prompt 2: Sprint Status Report from GitHub Issues
 **Demo Act:** Act 4 — Communication & Documentation  
-**What it does:** Generates a formatted sprint status report from backlog issues — surfaces what's done, in progress, blocked, and at risk. Saves 30+ min of manual reporting.
+**What it does:** Generates a formatted sprint status report from backlog issues — surfaces what's done, in progress, blocked, and at risk.
 
 ```
 Generate a sprint status report from the following GitHub Issues. Format it as:
@@ -101,7 +103,7 @@ Sprint context:
 
 ## Prompt 5: Feature Brief for Engineering Kickoff
 **Demo Act:** Act 1 — Discovery & Requirements  
-**What it does:** Synthesizes meeting notes and requirements into a one-page feature brief that Engineering can use at a kickoff meeting — saves the PM prep time.
+**What it does:** Synthesizes meeting notes and requirements into a one-page feature brief that Engineering can use at a kickoff meeting.
 
 ```
 Write a one-page feature brief for the engineering team kickoff for the 
@@ -123,7 +125,7 @@ Use the following inputs:
 
 ## Prompt 6: Acceptance Criteria → Definition of Done Checklist
 **Demo Act:** Act 1 — Discovery & Requirements  
-**What it does:** Converts acceptance criteria from requirements into a Definition of Done checklist for the development team — bridges PM/Dev workflow.
+**What it does:** Converts acceptance criteria from requirements into a Definition of Done checklist for the development team.
 
 ```
 Based on the following requirements document, create a Definition of Done (DoD) checklist 

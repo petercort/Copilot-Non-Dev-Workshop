@@ -3,6 +3,8 @@
 **Primary Goals:** Generate test cases from requirements and user stories, analyze code changes for test coverage, triage bugs, and bridge the communication gap between development and QA.  
 **Acts Covered:** Act 3 (Quality & Validation), Act 1 (contributing to acceptance criteria)
 
+**Standalone demo framing:** These prompts support a self-contained QA demo inside the Returns Portal scenario. They work directly from the requirements and sample implementation artifacts in this lab.
+
 ---
 
 ## Prompt 1: Acceptance Criteria → Manual Test Cases
@@ -48,7 +50,7 @@ Create a QA test plan from the following requirements document. Include:
 
 ## Prompt 3: Code Explanation for Test Coverage Analysis
 **Demo Act:** Act 3 — Quality & Validation  
-**What it does:** Helps QA understand what an API does without reading code — then identifies what needs to be tested. Bridges the dev↔QA language gap.
+**What it does:** Helps QA understand what an API does without reading code — then identifies what needs to be tested.
 
 ```
 I'm a QA engineer reviewing this API code. I don't need to understand every implementation detail,
@@ -66,7 +68,7 @@ but I need to know:
 
 ## Prompt 4: Bug Report → Root Cause Hypothesis
 **Demo Act:** Act 3 — Quality & Validation  
-**What it does:** Feeds a bug report + relevant code to Copilot and asks it to hypothesize root causes — helps QA triage bugs and communicate findings to developers.
+**What it does:** Feeds a bug report + relevant code to Copilot and asks it to hypothesize root causes — helps QA triage bugs and communicate findings clearly.
 
 ```
 I have a bug report and the relevant code. Please:
